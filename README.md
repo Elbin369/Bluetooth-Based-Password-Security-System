@@ -1,5 +1,4 @@
-
-STM32 Bluetooth Password Security System
+🔐 STM32 Bluetooth Password Security System
 A secure password-protected access control system built using an STM32 microcontroller, Bluetooth module, OLED display, LEDs, and buzzer. Users can enter a password wirelessly through a Bluetooth-connected device, and the system provides visual and audio feedback for authentication results.
 
 📌 Features
@@ -57,3 +56,5 @@ Password change feature
 Event logging system
 👨‍💻 Author
 Elbin Sam
+
+Cyber Security Student | STM32 & Embedded Systems Enthusiast
